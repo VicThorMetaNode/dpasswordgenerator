@@ -7,7 +7,7 @@ import {
 
 const Footer = () => {
   return (
-    <div className=" w-full bg-gray">
+    <div className=" w-full bg-gray mt-5 md:mt-10">
       <div className="flex flex-col justify-center items-center py-2 ">
         <p className="text-turc font-title text-base nowrap">
           d-password generator
