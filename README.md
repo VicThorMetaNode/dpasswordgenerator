@@ -1,6 +1,6 @@
 # PASSWORD GENERATOR 3.0
 Mobile-first SPA [Single Page Application] build with **REACT** - **TAILWIND** & **VITEJS** 
-<p>"This marks the third iteration of a password generator website. Initially, it served as my inaugural JavaScript logic project during my time as a Junior Web Developer. Even now, my friends and I rely on this version to create random passwords, adjusting parameters such as length."</p>
+<p>This marks the third iteration of a password generator website. Initially, it served as my inaugural JavaScript logic project during my time as a Junior Web Developer. Even now, my friends and I rely on this version to create random passwords, adjusting parameters such as length.</p>
 <p> <b>You're welcome to make use of it too. It's important to note that I don't collect any information or store passwords in a database. There are no tracking mechanisms or sneaky gadgets involved.</b> </p>
 https://dpasswordgenerator.vercel.app/
 
